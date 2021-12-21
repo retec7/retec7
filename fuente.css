@@ -1,0 +1,42 @@
+@font-face{
+	font-family: delight;
+	src: url(Amigo.ttf) format('truetype');
+}
+
+@font-face{
+	font-family: sabeny;
+	src: url(Sabeny.ttf) format('truetype');
+}
+
+.delight{
+	font-family: delight;
+	font-size: 40px;
+	color:#348721;
+}
+
+.sabeny{
+	font-family: sabeny;
+	font-size: 30px;
+	color: #479233;
+}
+
+table{
+	border-collapse: collapse;
+	margin: 0 auto;
+}
+
+td, th{
+	border: 2px solid black;
+
+}
+
+th{
+	font-size: 50px;
+}
+
+.redes{
+	font-family: delight;
+	font-size: 40px;
+	color:#348721;
+	background-color: 
+}
