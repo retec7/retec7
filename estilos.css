@@ -1,0 +1,39 @@
+body {
+	background-color: pink; 
+	}
+
+h1 {
+ 	color: green; 
+
+ 	background-color: #19fcf9;
+	}
+
+h2 {
+	color: green;
+
+	background-color: #19fcf9;
+	}
+
+h3 {
+	color: green;
+
+	background-color: #19fcf9;
+	}
+
+a {
+	text-decoration: none;
+
+	color: yellow;
+	}
+
+a:hover {
+	background-color: lightblue;
+
+	color: purple;
+	}
+
+#uno {
+color: white;
+
+font-family: arial;
+	}
