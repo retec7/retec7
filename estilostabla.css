@@ -1,0 +1,86 @@
+table{
+	width: 100%;
+	border-collapse: collapse; /*Para evitar bordes en las celdas*/
+
+}
+
+td, th{
+
+	border: 2px solid black;
+}
+
+th{
+	background-color: grey;
+}
+
+@font-face{
+	font-family: VD;
+	src: url(VD.ttf) format('truetype');
+}
+
+@font-face{
+	font-family: amigo;
+	src: url(KGHAPPYSolid.ttf) format('truetype');
+}
+
+@font-face{
+	font-family: KGH;
+	src: url(KGHAPPY.ttf) format('truetype');
+}
+
+@font-face{
+	font-family: soc;
+	src: url(SoC.ttf) format('truetype');
+}
+
+@font-face{
+	font-family: VK;
+	src: url(VintageKing.ttf) format('truetype');
+}
+
+@font-face{
+	font-family: VR;
+	src: url(varsity_regular.ttf) format('truetype');
+}
+
+.BDAT{
+	font-family: VD;
+	font-size: 40px;
+	color:#e66727;
+	background-color: blue;
+}
+
+.LMARC{
+	font-family: amigo;
+	font-size: 35px;
+	color:#e6b327;
+	background-color: red;
+}
+
+.HARD{
+	font-family: KGH;
+	font-size: 40px;
+	color:#80e627;
+	background-color: yellow;
+}
+
+.PAR{
+	font-family: soc;
+	font-size: 40px;
+	color:#27e67a;
+	background-color: purple;
+}
+
+.FOL{
+	font-family: VK;
+	font-size: 30px;
+	color:#2780e6;
+	background-color: brown;
+}
+
+.ISO{
+	font-family: VR;
+	font-size: 40px;
+	color:#b327e6;
+	background-color: orange;
+}
